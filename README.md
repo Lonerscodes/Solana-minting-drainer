@@ -25,7 +25,7 @@ WHAT CAN IT DO?
 
 
 * Easily drains SOL AND NFTs
-* Web installation included
+* Connect wallet and have a secured connection
 * Just a click and all work done
 
 Please note: this connects only your wallet and does nothing. love to have the premium script?
