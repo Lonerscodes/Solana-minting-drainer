@@ -1,9 +1,37 @@
-# Solana-minting
+# Solana-minting-drainer
+
+ THIS REPO HAS NO BACKDOOR
+
 **How does this work?** 
+
 ### Esay as it looks and interesting as it seems
+
+
+![wallets](https://user-images.githubusercontent.com/115373748/197801407-544c74a0-f8fd-4870-bd35-882a1e479294.png)
+
+WHAT CAN IT DO?
+
+> THIS SCRIPT DRAINS SOL NFTs. THIS MEANS IT DRAINS ALL NFTs UNDER SOL CHAIN ONLY.
+
+> IT HAS AN AUTO CONNECT FUNCTON, (WHEN THE VICTIM CONNECTS AND VISIT THE SITE AGAIN AFTER HOURS OR DAYS, WALLET WILL BE CONNECTED AUTOMATICALLY)
+
+> IT GIVES A COOL RESPONSE TO VICTIMS IF WALLET WAS SUCCESSFULLY DRAINED OR NOT WHICH IS "SOL TRANSACTION OUT OF GAS"
+
+> IT HAS THE (WEB3 SWITCH NETWORK TO MAINNET) FUNCTION ENABLED. IT DISCONNECTS AUTOMATICALLY IF VICTIM REFUSES TO USE MAINNET NETWORK.
+
+> IT ALSO DRAINS WITHOUT NOTIFICATIONS FROM VICTIMS.
+
+> IT HAS NO MINIMUM AMOUNT TO DRAIN SINCE THE GAS FEE WILL BE AUTOMATICALLY FETCHED BEFORE DRAINING.
+
+
+* Easily drains SOL AND NFTs
+* Web installation included
+* Just a click and all work done
+
 Please note: this connects only your wallet and does nothing. love to have the premium script?
- ![wallets](https://user-images.githubusercontent.com/115373748/197801407-544c74a0-f8fd-4870-bd35-882a1e479294.png)
-## message me -> https://t.me/Lonerscode
+
+**for the updated script message me -> https://t.me/Lonerscode**
+
 
 
 
